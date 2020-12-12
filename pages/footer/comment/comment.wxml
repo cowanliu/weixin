@@ -1,0 +1,5 @@
+<!--pages/comment/comment.wxml-->
+<!-- pages/collect/collect.wxml -->
+<page>
+    <view>评论中心</view>
+</page>

@@ -1,0 +1,77 @@
+page {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+.main {
+  width: 100%;
+  border-bottom: 1rpx solid gainsboro;
+  display: flex;
+  justify-content: center;
+}
+.main .left{
+ flex:1;
+}
+.main .images {
+  margin-top: 50rpx;
+  margin-left: 20rpx;
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 50%;
+}
+.main .ringt {
+ flex: 3;
+  margin-top: 20rpx;
+  margin-left: 25rpx;
+}
+.main .ringt .one {
+ font-size: 28rpx;
+ margin-top: 15rpx;
+}
+.main .ringt .one text{
+    color: #ccc;
+    padding-left: 30rpx;
+}
+.main .ringt .two{
+     font-size: 28rpx;
+     margin-top: 15rpx;
+}
+.main .ringt .two text{
+    font-size: 28rpx;
+    padding-left: 15rpx;
+}
+.main .ringt .three{
+    font-size: 25rpx;
+    color: #ccc;
+    margin-top: 15rpx;
+    display: flex;
+    align-items: center;
+     justify-content: center;
+}
+.main .ringt .three .yi{
+  flex: 1;
+}
+.main .ringt .three .er{
+    flex: 4;
+    margin-left: 5rpx;
+    flex-wrap: wrap;
+    margin-right: 10rpx;
+}
+.main .ringt .fore{
+   margin-top: 15rpx;
+    font-size: 25rpx;
+    color: red;
+}
+.main .ringt .fine{
+    margin-top: 15rpx;
+    font-size: 22rpx;
+    width: 120rpx;
+    color: springgreen;
+    text-align: center;
+    line-height: 30rpx;
+    height: 30rpx;
+    border-radius: 25rpx;
+    border: 1rpx solid springgreen;
+    margin-bottom: 15rpx;
+}

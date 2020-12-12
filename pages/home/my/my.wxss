@@ -1,0 +1,187 @@
+/* pages/my/my.wxss */
+page {
+  width: 100%;
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: inherit;
+}
+.header {
+  width: 100%;
+  height: 400rpx;
+  background: #0099cc;
+  position: relative;
+}
+.header .log {
+  margin-top: 60rpx;
+  margin-left: 40rpx;
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 50%;
+}
+.header .names {
+  position: absolute;
+  top: 70rpx;
+  left: 170rpx;
+  font-size: 30rpx;
+}
+.header .authentication {
+  position: absolute;
+  top: 130rpx;
+  left: 170rpx;
+  font-size: 25rpx;
+  width: 90rpx;
+  height: 40rpx;
+  color: white;
+  background-color: darksalmon;
+  text-align: center;
+  border-radius: 10rpx;
+  line-height: 40rpx;
+}
+.header .xinxi {
+  margin-top: 40rpx;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 25rpx;
+  color: white;
+}
+.header .xinxi .yue-yue {
+  margin-left: -15rpx;
+  padding-top: 20rpx;
+  justify-content: space-around;
+  text-align: center;
+}
+.header .xinxi .tao-tao {
+  padding-top: 20rpx;
+  justify-content: space-around;
+  text-align: center;
+}
+.header .xinxi .you-you {
+  padding-top: 20rpx;
+  justify-content: space-around;
+  text-align: center;
+}
+.report {
+  position: relative;
+  top: -40rpx;
+  height: 120rpx;
+  border-bottom: 5rpx solid #0099cc;
+  width: 90%;
+  margin: 0 auto;
+  border: 1rpx solid black;
+  background-color: white;
+  border-radius: 20rpx;
+}
+.report .wenzhen {
+  position: absolute;
+  top: 45rpx;
+  left: 560rpx;
+  font-size: 25rpx;
+}
+.report .dianji {
+  position: absolute;
+  top: 80rpx;
+  left: 560rpx;
+  font-size: 20rpx;
+  color: coral;
+}
+.order {
+  width: 90%;
+  margin: 0 auto;
+  height: 210rpx;
+  border: 1rpx solid beige;
+  border-radius: 20rpx;
+}
+.order .mydingdan {
+  padding-top: 40rpx;
+  padding-left: 20rpx;
+  font-size: 30rpx;
+  font-weight: 2rpx;
+}
+.order .main {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.order image {
+  padding-top: 20rpx;
+  width: 70rpx;
+  height: 70rpx;
+  display: block;
+}
+.order .one {
+  display: block;
+  font-size: 25rpx;
+  text-align: center;
+}
+.order .fukuan {
+  margin-top: 20rpx;
+}
+.order .wancheng {
+  margin-top: 20rpx;
+}
+.order .quanbu {
+  margin-top: 20rpx;
+  margin-left: -10rpx;
+}
+.Interrogation {
+  width: 90%;
+  margin: 20rpx auto;
+  height: 210rpx;
+  border: 1rpx solid beige;
+  border-radius: 20rpx;
+}
+.Interrogation .mydingdan {
+  padding-top: 40rpx;
+  padding-left: 20rpx;
+  font-size: 30rpx;
+  font-weight: 2rpx;
+}
+.Interrogation .main {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.Interrogation image {
+  padding-top: 20rpx;
+  width: 70rpx;
+  height: 70rpx;
+  display: block;
+}
+.Interrogation .one {
+  display: block;
+  font-size: 25rpx;
+  text-align: center;
+}
+.Interrogation .fukuan {
+  margin-top: 20rpx;
+}
+.Interrogation .wancheng {
+  margin-top: 20rpx;
+}
+.Interrogation .quanbu {
+  margin-top: 20rpx;
+  margin-left: -10rpx;
+}
+.footer {
+  width: 90%;
+  margin: 0 auto;
+  font-size: 32rpx;
+  margin-bottom: 40rpx;
+  border-radius: 10rpx;
+}
+.footer .xiangqing {
+  border: 1rpx solid beige;
+  height: 78rpx;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer .xiangqing .left {
+padding-left: 60rpx;
+}
+.footer .xiangqing .right {
+  color: slategrey;
+  padding-right: 10rpx;
+}

@@ -1,0 +1,132 @@
+<page>
+    <view class="header">
+        <image class="log" src="../../../icons/log.jpg" />
+        <text class="names" selectable="false" space="false" decode="false">刘思强</text>
+        <text class="authentication" selectable="false" space="false" decode="false">未认证</text>
+        <view class="xinxi">
+            <view class="yue">
+                余额
+                <view class="yue-yue">￥0.00</view>
+            </view>
+            <view class="tao">
+                套餐卡
+                <view class="tao-tao">1</view>
+            </view>
+            <view class="you">
+                优惠券
+                <view class="you-you">0</view>
+            </view>
+        </view>
+    </view>
+    <view class="report">
+        <image class="" src="" mode="aspectFit|aspectFill|widthFix" lazy-load="false" binderror="" bindload="" />
+        <navigator url="/pages/inquiry/inquiry"  hover-class="none">
+            <view class="wenzhen">问诊报告</view>
+            <view class="dianji">点击查看></view>
+        </navigator>
+    </view>
+    <view class="order">
+        <text class="mydingdan" selectable="false" space="false" decode="false">我的订单</text>
+        <view class="main">
+            <view class="one">
+                <navigator class="" target="" url="" hover-class="navigator-hover" open-type="navigate">
+                    <image class="" src="../../../icons/daifukuan.png" mode="aspectFit|aspectFill|widthFix" lazy-load="false" binderror="" bindload="" />
+                    <view class="fukuan">代付款</view>
+                </navigator>
+            </view>
+            <view class="one">
+                <navigator class="" target="" url="" hover-class="navigator-hover" open-type="navigate">
+                    <image class="" src="../../../icons/yiwancheng.png" mode="aspectFit|aspectFill|widthFix" lazy-load="false" binderror="" bindload="" />
+                    <view class="wancheng">已完成</view>
+                </navigator>
+            </view>
+            <view class="one">
+                <navigator class="" target="" url="" hover-class="navigator-hover" open-type="navigate">
+                    <image class="" src="../../../icons/icon.png" mode="aspectFit|aspectFill|widthFix" lazy-load="false" binderror="" bindload="" />
+                    <view class="quanbu">全部订单</view>
+                </navigator>
+            </view>
+        </view>
+    </view>
+    <view class="Interrogation">
+        <text class="mydingdan" selectable="false" space="false" decode="false">我的问诊</text>
+        <view class="main">
+            <view class="one">
+                <navigator  url="/pages/mywenzhen/consulted/consulted"  hover-class="none">
+                    <image class="" src="../../../icons/wenzhen.png" mode="aspectFit|aspectFill|widthFix" lazy-load="false" binderror="" bindload="" />
+                    <view class="fukuan">代问诊</view>
+                </navigator>
+            </view>
+            <view class="one">
+                <navigator url="/pages/mywenzhen/consulted/consulted"  hover-class="none"
+                
+                >
+                <image class="" src="../../../icons/wancheng.png" mode="aspectFit|aspectFill|widthFix" lazy-load="false" binderror="" bindload="" />
+                <view class="wancheng">已完成</view>
+            </navigator>
+            </view>
+            <view class="one">
+                <navigator url="/pages/mywenzhen/consulted/consulted"  hover-class="none">
+                    <image class="" src="../../../icons/icon.png" mode="aspectFit|aspectFill|widthFix" lazy-load="false" binderror="" bindload="" />
+                    <view class="quanbu">全部问诊</view>
+                </navigator>
+            </view>
+        </view>
+    </view>
+    <view class="footer">
+        <navigator class="" target="" url="/pages/footer/convert/convert"  hover-class="none" open-type="navigate">
+            <view class="xiangqing">
+                <view class="left">兑换中心</view>
+                <view class="right">></view>
+            </view>
+        </navigator>
+        <navigator class="" target="" url=""  hover-class="none" open-type="navigate">
+            <view class="xiangqing">
+                <view class="left">我的地址</view>
+                <view class="right">></view>
+            </view>
+        </navigator>
+        <navigator class="" target="" url="/pages/footer/prescription/prescription"  hover-class="none" open-type="navigate">
+            <view class="xiangqing">
+                <view class="left">我的处方</view>
+                <view class="right">></view>
+            </view>
+        </navigator>
+        <navigator class="" target="" url="/pages/footer/comment/comment"  hover-class="none" open-type="navigate">
+            <view class="xiangqing">
+                <view class="left">评价中心</view>
+                <view class="right">></view>
+            </view>
+        </navigator>
+        <navigator class="" target="" url="/pages/footer/collect/collect" vhover-class="none" open-type="navigate">
+            <view class="xiangqing">
+                <view class="left">收藏的医生</view>
+                <view class="right">></view>
+            </view>
+        </navigator>
+        <navigator class="" target="" url=""  hover-class="none" open-type="navigate">
+            <view class="xiangqing">
+                <view class="left">修改登录密码</view>
+                <view class="right">></view>
+            </view>
+        </navigator>
+        <navigator class="" target="" url=""  hover-class="none" open-type="navigate">
+            <view class="xiangqing">
+                <view class="left">设置支付密码</view>
+                <view class="right">></view>
+            </view>
+        </navigator>
+        <navigator class="" target="" url=""  hover-class="none" open-type="navigate">
+            <view class="xiangqing">
+                <view class="left">分享给朋友</view>
+                <view class="right">></view>
+            </view>
+        </navigator>
+        <navigator class="" target="" url=""  hover-class="none" open-type="navigate">
+            <view class="xiangqing">
+                <view class="left">退出登录</view>
+                <view class="right">></view>
+            </view>
+        </navigator>
+    </view>
+</page>

@@ -1,0 +1,37 @@
+<!-- pages/prescription/prescription.wxml -->
+<page>
+    <view class="wenzhen" wx:for="{{item}}" wx:key="danhao">
+        <view class="top">
+            <view class="top-left">
+                问诊单号：
+                <text>{{item.danhao}}</text>
+            </view>
+            <view class="top-right">
+                {{item.riqi}}
+                <text>{{item.shijian}}</text>
+            </view>
+        </view>
+        <view class="main">
+            <view class="main-left">
+                会员:
+                <text>{{item.huiyuan}}</text>
+            </view>
+            <view  class="main-left">
+                病历号:
+                <text>{{item.binglihao}}</text>
+            </view>
+            <view  class="main-left">
+                医生姓名:
+                <text>{{item.yisheng}}</text>
+            </view>
+            <view  class="main-left">
+                科室:
+                <text>{{item.keshi}}</text>
+            </view>
+            <view  class="main-left">
+                初步诊断:
+                <text>{{item.chuzhen}}</text>
+            </view>
+        </view>
+    </view>
+</page>

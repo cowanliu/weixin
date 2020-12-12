@@ -1,0 +1,211 @@
+<page>
+  <view class="main">
+
+    <view class="main_top">
+      <view class="left">
+        <image class="" src="../../icons/log.jpg" />
+        <view class="name">夏秋玲</view>
+      </view>
+      <view class="riqi">
+        2020-09-27
+        <text class="shijian">22:25:23</text>
+      </view>
+    </view>
+    <view class="main_center">
+      <view class="jihe">
+        <text class="shuxing" decode="true">订&nbsp;&nbsp;单&nbsp;&nbsp;号：</text>
+        <text class="neirong">4512151</text>
+      </view>
+      <view class="jihe">
+        <text class="shuxing"  decode="true">会&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;员：</text>
+        <text class="neirong">451221151</text>
+      </view>
+      <view class="jihe">
+        <text class="shuxing">描述症状：</text>
+        <text class="neirong">咽喉不适</text>
+      </view>
+      <view class="jihe">
+        <text class="shuxing">初步诊断：</text>
+        <text class="neirong">急性咽喉</text>
+      </view>
+    </view>
+    <view class="main_buttom">
+      <button class="default">查看详情</button>
+    </view>
+  </view>
+
+
+    <view class="main">
+    <view class="main_top">
+      <view class="left">
+        <image class="" src="../../icons/log.jpg" />
+        <view class="name">夏秋玲</view>
+      </view>
+      <view class="riqi">
+        2020-09-27
+        <text class="shijian">22:25:23</text>
+      </view>
+    </view>
+    <view class="main_center">
+      <view class="jihe">
+        <text class="shuxing" decode="true">订&nbsp;&nbsp;单&nbsp;&nbsp;号：</text>
+        <text class="neirong">4512151</text>
+      </view>
+      <view class="jihe">
+        <text class="shuxing" decode="true">会&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;员：</text>
+        <text class="neirong">451221151</text>
+      </view>
+      <view class="jihe">
+        <text class="shuxing">描述症状：</text>
+        <text class="neirong">咽喉不适</text>
+      </view>
+      <view class="jihe">
+        <text class="shuxing">初步诊断：</text>
+        <text class="neirong">急性咽喉</text>
+      </view>
+    </view>
+    <view class="main_buttom">
+      <button class="default">查看详情</button>
+    </view>
+  </view>
+
+
+    <view class="main">
+    <view class="main_top">
+      <view class="left">
+        <image class="" src="../../icons/log.jpg" />
+        <view class="name">夏秋玲</view>
+      </view>
+      <view class="riqi">
+        2020-09-27
+        <text class="shijian">22:25:23</text>
+      </view>
+    </view>
+    <view class="main_center">
+      <view class="jihe">
+        <text class="shuxing" decode="true">订&nbsp;&nbsp;单&nbsp;&nbsp;号：</text>
+        <text class="neirong">4512151</text>
+      </view>
+      <view class="jihe">
+        <text class="shuxing" decode="true">会&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;员：</text>
+        <text class="neirong">451221151</text>
+      </view>
+      <view class="jihe">
+        <text class="shuxing">描述症状：</text>
+        <text class="neirong">咽喉不适</text>
+      </view>
+      <view class="jihe">
+        <text class="shuxing">初步诊断：</text>
+        <text class="neirong">急性咽喉</text>
+      </view>
+    </view>
+    <view class="main_buttom">
+      <button class="default">查看详情</button>
+    </view>
+  </view>
+
+
+    <view class="main">
+    <view class="main_top">
+      <view class="left">
+        <image class="" src="../../icons/log.jpg" />
+        <view class="name">夏秋玲</view>
+      </view>
+      <view class="riqi">
+        2020-09-27
+        <text class="shijian">22:25:23</text>
+      </view>
+    </view>
+    <view class="main_center">
+      <view class="jihe">
+        <text class="shuxing" decode="true">订&nbsp;&nbsp;单&nbsp;&nbsp;号：</text>
+        <text class="neirong">4512151</text>
+      </view>
+      <view class="jihe">
+        <text class="shuxing" decode="true">会&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;员：</text>
+        <text class="neirong">451221151</text>
+      </view>
+      <view class="jihe">
+        <text class="shuxing">描述症状：</text>
+        <text class="neirong">咽喉不适</text>
+      </view>
+      <view class="jihe">
+        <text class="shuxing">初步诊断：</text>
+        <text class="neirong">急性咽喉</text>
+      </view>
+    </view>
+    <view class="main_buttom">
+      <button class="default">查看详情</button>
+    </view>
+  </view>
+
+
+    <view class="main">
+    <view class="main_top">
+      <view class="left">
+        <image class="" src="../../icons/log.jpg" />
+        <view class="name">夏秋玲</view>
+      </view>
+      <view class="riqi">
+        2020-09-27
+        <text class="shijian">22:25:23</text>
+      </view>
+    </view>
+    <view class="main_center">
+      <view class="jihe">
+        <text class="shuxing" decode="true">订&nbsp;&nbsp;单&nbsp;&nbsp;号：</text>
+        <text class="neirong">4512151</text>
+      </view>
+      <view class="jihe">
+        <text class="shuxing" decode="true">会&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;员：</text>
+        <text class="neirong">451221151</text>
+      </view>
+      <view class="jihe">
+        <text class="shuxing">描述症状：</text>
+        <text class="neirong">咽喉不适</text>
+      </view>
+      <view class="jihe">
+        <text class="shuxing">初步诊断：</text>
+        <text class="neirong">急性咽喉</text>
+      </view>
+    </view>
+    <view class="main_buttom">
+      <button class="default">查看详情</button>
+    </view>
+  </view>
+
+
+    <view class="main">
+    <view class="main_top">
+      <view class="left">
+        <image class="" src="../../icons/log.jpg" />
+        <view class="name">夏秋玲</view>
+      </view>
+      <view class="riqi">
+        2020-09-27
+        <text class="shijian">22:25:23</text>
+      </view>
+    </view>
+    <view class="main_center">
+      <view class="jihe">
+        <text class="shuxing" decode="true">订&nbsp;&nbsp;单&nbsp;&nbsp;号：</text>
+        <text class="neirong">4512151</text>
+      </view>
+      <view class="jihe">
+        <text class="shuxing" decode="true">会&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;员：</text>
+        <text class="neirong">451221151</text>
+      </view>
+      <view class="jihe">
+        <text class="shuxing">描述症状：</text>
+        <text class="neirong">咽喉不适</text>
+      </view>
+      <view class="jihe">
+        <text class="shuxing">初步诊断：</text>
+        <text class="neirong">急性咽喉</text>
+      </view>
+    </view>
+    <view class="main_buttom">
+      <button class="default">查看详情</button>
+    </view>
+  </view>
+</page>

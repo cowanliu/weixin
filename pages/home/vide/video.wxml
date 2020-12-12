@@ -1,0 +1,4 @@
+<!--pages/vide/video.wxml-->
+<page>
+    <view>视频</view>
+</page>

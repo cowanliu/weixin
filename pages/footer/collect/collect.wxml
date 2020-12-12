@@ -1,0 +1,217 @@
+<!-- pages/collect/collect.wxml -->
+<page>
+  <view class="main">
+    <view class="left">
+      <image class="images" src="../../../icons/log.jpg" />
+    </view>
+    <view class="ringt">
+      <view class="one">
+        话费哦
+        <text class="" selectable="false" space="false" decode="false">主治医生</text>
+      </view>
+      <view class="two">
+        内科
+        <text class="" selectable="false" space="false" decode="false">深圳</text>
+      </view>
+      <view class="three">
+        <text class="yi" selectable="false" space="false" decode="false">个人简介:</text>
+        <text class="er" selectable="false" space="false" decode="false">放假船袜看哭了马尺码黑哦傲红尘你家才能灿姐姐呢姐姐哦我就爱吃颇具莱克斯诺能看出</text>
+      </view>
+      <view class="fore">
+        5.0分
+        <text class="" selectable="false" space="false" decode="false">星星</text>
+      </view>
+      <view class="fine">从业十年</view>
+    </view>
+  </view>
+
+     <view class="main">
+     <view class="left">
+       <image class="images" src="../../../icons/log.jpg" />
+     </view>
+     <view class="ringt">
+       <view class="one">
+         话费哦
+         <text class="" selectable="false" space="false" decode="false">主治医生</text>
+       </view>
+       <view class="two">
+         内科
+         <text class="" selectable="false" space="false" decode="false">深圳</text>
+       </view>
+       <view class="three">
+         <text class="yi" selectable="false" space="false" decode="false">个人简介:</text>
+         <text class="er" selectable="false" space="false" decode="false">
+           放假船袜看哭了马尺码黑哦傲红尘你家才能灿姐姐呢姐姐哦我就爱吃颇具莱克斯诺能看出
+         </text>
+       </view>
+       <view class="fore">
+         5.0分
+         <text class="" selectable="false" space="false" decode="false">星星</text>
+       </view>
+       <view class="fine">从业十年</view>
+     </view>
+   </view>
+
+       <view class="main">
+      <view class="left">
+        <image class="images" src="../../../icons/log.jpg" />
+      </view>
+      <view class="ringt">
+        <view class="one">
+          话费哦
+          <text class="" selectable="false" space="false" decode="false">主治医生</text>
+        </view>
+        <view class="two">
+          内科
+          <text class="" selectable="false" space="false" decode="false">深圳</text>
+        </view>
+        <view class="three">
+          <text class="yi" selectable="false" space="false" decode="false">个人简介:</text>
+          <text class="er" selectable="false" space="false" decode="false">
+            放假船袜看哭了马尺码黑哦傲红尘你家才能灿姐姐呢姐姐哦我就爱吃颇具莱克斯诺能看出
+          </text>
+        </view>
+        <view class="fore">
+          5.0分
+          <text class="" selectable="false" space="false" decode="false">星星</text>
+        </view>
+        <view class="fine">从业十年</view>
+      </view>
+    </view>
+
+         <view class="main">
+       <view class="left">
+         <image class="images" src="../../../icons/log.jpg" />
+       </view>
+       <view class="ringt">
+         <view class="one">
+           话费哦
+           <text class="" selectable="false" space="false" decode="false">主治医生</text>
+         </view>
+         <view class="two">
+           内科
+           <text class="" selectable="false" space="false" decode="false">深圳</text>
+         </view>
+         <view class="three">
+           <text class="yi" selectable="false" space="false" decode="false">个人简介:</text>
+           <text class="er" selectable="false" space="false" decode="false">
+             放假船袜看哭了马尺码黑哦傲红尘你家才能灿姐姐呢姐姐哦我就爱吃颇具莱克斯诺能看出
+           </text>
+         </view>
+         <view class="fore">
+           5.0分
+           <text class="" selectable="false" space="false" decode="false">星星</text>
+         </view>
+         <view class="fine">从业十年</view>
+       </view>
+     </view>
+
+           <view class="main">
+        <view class="left">
+          <image class="images" src="../../../icons/log.jpg" />
+        </view>
+        <view class="ringt">
+          <view class="one">
+            话费哦
+            <text class="" selectable="false" space="false" decode="false">主治医生</text>
+          </view>
+          <view class="two">
+            内科
+            <text class="" selectable="false" space="false" decode="false">深圳</text>
+          </view>
+          <view class="three">
+            <text class="yi" selectable="false" space="false" decode="false">个人简介:</text>
+            <text class="er" selectable="false" space="false" decode="false">
+              放假船袜看哭了马尺码黑哦傲红尘你家才能灿姐姐呢姐姐哦我就爱吃颇具莱克斯诺能看出
+            </text>
+          </view>
+          <view class="fore">
+            5.0分
+            <text class="" selectable="false" space="false" decode="false">星星</text>
+          </view>
+          <view class="fine">从业十年</view>
+        </view>
+      </view>
+
+
+             <view class="main">
+         <view class="left">
+           <image class="images" src="../../../icons/log.jpg" />
+         </view>
+         <view class="ringt">
+           <view class="one">
+             话费哦
+             <text class="" selectable="false" space="false" decode="false">主治医生</text>
+           </view>
+           <view class="two">
+             内科
+             <text class="" selectable="false" space="false" decode="false">深圳</text>
+           </view>
+           <view class="three">
+             <text class="yi" selectable="false" space="false" decode="false">个人简介:</text>
+             <text class="er" selectable="false" space="false" decode="false">
+               放假船袜看哭了马尺码黑哦傲红尘你家才能灿姐姐呢姐姐哦我就爱吃颇具莱克斯诺能看出
+             </text>
+           </view>
+           <view class="fore">
+             5.0分
+             <text class="" selectable="false" space="false" decode="false">星星</text>
+           </view>
+           <view class="fine">从业十年</view>
+         </view>
+       </view>
+
+               <view class="main">
+          <view class="left">
+            <image class="images" src="../../../icons/log.jpg" />
+          </view>
+          <view class="ringt">
+            <view class="one">
+              话费哦
+              <text class="" selectable="false" space="false" decode="false">主治医生</text>
+            </view>
+            <view class="two">
+              内科
+              <text class="" selectable="false" space="false" decode="false">深圳</text>
+            </view>
+            <view class="three">
+              <text class="yi" selectable="false" space="false" decode="false">个人简介:</text>
+              <text class="er" selectable="false" space="false" decode="false">
+                放假船袜看哭了马尺码黑哦傲红尘你家才能灿姐姐呢姐姐哦我就爱吃颇具莱克斯诺能看出
+              </text>
+            </view>
+            <view class="fore">
+              5.0分
+              <text class="" selectable="false" space="false" decode="false">星星</text>
+            </view>
+            <view class="fine">从业十年</view>
+          </view>
+        </view>
+
+                 <view class="main">
+           <view class="left">
+             <image class="images" src="../../../icons/log.jpg" />
+           </view>
+           <view class="ringt">
+             <view class="one">
+               话费哦
+               <text class="" selectable="false" space="false" decode="false">主治医生</text>
+             </view>
+             <view class="two">
+               内科
+               <text class="" selectable="false" space="false" decode="false">深圳</text>
+             </view>
+             <view class="three">
+               <text class="yi" selectable="false" space="false" decode="false">个人简介:</text>
+               <text class="er" selectable="false" space="false" decode="false">
+                 放假船袜看哭了马尺码黑哦傲红尘你家才能灿姐姐呢姐姐哦我就爱吃颇具莱克斯诺能看出
+               </text>
+             </view>
+             <view class="fore">
+               5.0分
+               <text class="" selectable="false" space="false" decode="false">星星</text>
+             </view>
+             <view class="fine">从业十年</view>
+           </view>
+         </view>
+</page>

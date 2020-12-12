@@ -1,0 +1,84 @@
+<page>
+    <!-- 父组件向子组件传递数据 通过标签属性的方式来传递 
+在子组件接受数据 -->
+    <tabs tabs="{{tabs}}" binditemChange="hanldeItemChange">
+        <view class="section">
+            <text> 请选择问诊日期:</text>
+            <picker mode="date" value="{{date}}" start="2019-09-01" end="2200-12-11" bindchange="bindDateChange" fields="month">
+                <view class="picker">--年--月
+                    <!-- <text class="sanjiao"></text> -->
+                    {{date}}</view>
+            </picker>
+        </view>
+        <block wx:if="{{tabs[0].isActive}}">
+            <view class="wenzhen">
+                <view class="main">
+                    <view class="main_top">
+                        <view class="top_left">
+                            <view class="danhao">问诊单号：4651216541</view>
+                            <view class="shijian">2020-12-02 15:15:21</view>
+                        </view>
+                        <view class="top_right">待问诊</view>
+                    </view>
+                    <view class="main_content">
+                        <text class="neirong" decode="true">
+                            会&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;员：刘思强哎
+                        </text>
+                        <text class="neirong" decode="true">医生姓名：刘思强哎</text>
+                        <text class="neirong" decode="true">症状描述：健康</text>
+                        <text class="neirong" decode="true">初步诊断：健康</text>
+                    </view>
+                    <view class="main_bottom">
+                        <button class="default">去问诊</button>
+                    </view>
+                </view>
+            </view>
+        </block>
+        <block wx:elif="{{tabs[1].isActive}}">
+            <view class="wancheng">
+                <view class="wancheng_main">
+                    <view class="main_top">
+                        <view class="top_left">
+                            <view class="danhao">问诊单号：4651216541</view>
+                            <view class="shijian">2020-12-02 15:15:21</view>
+                        </view>
+                        <view class="top_right">已完成</view>
+                    </view>
+                    <view class="main_content">
+                        <text class="neirong" decode="true">
+                            会&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;员：刘思强哎
+                        </text>
+                        <text class="neirong" decode="true">医生姓名：刘思强哎</text>
+                        <text class="neirong" decode="true">症状描述：健康</text>
+                    </view>
+                    <view class="main_bottom">
+                        <button class="default">追加评价</button>
+                    </view>
+                </view>
+            </view>
+        </block>
+        <block wx:else="{{tabs[2].isActive}}">
+            <view class="quanbu">
+                <view class="wancheng_main">
+                    <view class="main_top">
+                        <view class="top_left">
+                            <view class="danhao">问诊单号：4651216541</view>
+                            <view class="shijian">2020-12-02 15:15:21</view>
+                        </view>
+                        <view class="top_right">已完成</view>
+                    </view>
+                    <view class="main_content">
+                        <text class="neirong" decode="true">
+                            会&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;员：刘思强哎
+                        </text>
+                        <text class="neirong" decode="true">医生姓名：刘思强哎</text>
+                        <text class="neirong" decode="true">症状描述：健康</text>
+                    </view>
+                    <view class="main_bottom">
+                        <button class="default">追加评价</button>
+                    </view>
+                </view>
+            </view>
+        </block>
+    </tabs>
+</page>

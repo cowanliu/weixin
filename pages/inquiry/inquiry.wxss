@@ -1,0 +1,84 @@
+page {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.main {
+  width: 95%;
+  margin: 0 auto;
+  height: 460rpx;
+  border: 1rpx solid #ccc;
+  margin-top: 20rpx;
+}
+.main .main_top {
+    padding-top: 15rpx;
+  width: 100%;
+  line-height: 100rpx;
+  height: 100rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.main .main_top .left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 25rpx;
+}
+.main .main_top image {
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 50%;
+}
+.main .main_top .name {
+  margin-left: 28rpx;
+  font-size: 28rpx;
+}
+.main .main_top .riqi {
+  color: #ccc;
+  font-size: 25rpx;
+  margin-right: 35rpx;
+}
+.main .main_top .shijian {
+  color: #ccc;
+  font-size: 25rpx;
+}
+.main .main_center {
+  width: 100%;
+  height: 220rpx;
+  border-top: 1rpx solid #ccc;
+  margin-top: 15rpx;
+  padding-top: 18rpx;
+}
+.main .main_center .jihe {
+  margin: 18rpx 8rpx;
+  width: 100%;
+  font-size: 25rpx;
+  display: flex;
+  align-items: center;
+}
+.main .main_center .shuxing {
+  color: #ccc;
+}
+.main .main_center .neirong {
+  color: black;
+}
+.main .main_buttom {
+  width: 100%;
+  height: 100rpx;
+  border-top: 1rpx solid #ccc;
+  position: relative;
+}
+.main .main_buttom .default {
+  text-align: center;
+  letter-spacing: 2rpx;
+  font-size: 25rpx;
+  width: 170rpx;
+  height: 60rpx;
+  color: blue;
+  border: 1rpx solid blue;
+  position: absolute;
+  right: 25rpx;
+  top: 16rpx;
+}

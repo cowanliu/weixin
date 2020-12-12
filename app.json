@@ -1,13 +1,47 @@
 {
-  "pages":[
-    "pages/index/index",
-    "pages/logs/logs"
+  "pages": [
+    "pages/home/index/index",
+    "pages/home/vide/video",
+    "pages/home/my/my",
+    "pages/inquiry/inquiry",
+    "pages/mydingdan/orders/orders",
+    "pages/mywenzhen/consulted/consulted",
+    "pages/footer/convert/convert",
+    "pages/footer/prescription/prescription",
+    "pages/footer/comment/comment",
+    "pages/footer/collect/collect",
+    "custom-tab-bar/index",
+    "components/tabs/tabs"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "Weixin",
-    "navigationBarTextStyle":"black"
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#0099CC",
+    "navigationBarTitleText": "视频问诊",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    
+    "borderStyle": "black",
+    "selectedColor": "#0099CC",
+    "list": [{
+        "pagePath": "pages/home/index/index",
+        "text": "首页",
+        "iconPath": "./icons/home.png",
+        "selectedIconPath": "./icons/homes.png"
+      },
+      {
+        "pagePath": "pages/home/vide/video",
+        "text": "视频",
+        "iconPath": "./icons/shipin.png",
+        "selectedIconPath": "./icons/shipin.png"
+      },
+      {
+        "pagePath": "pages/home/my/my",
+        "text": "我的",
+        "iconPath": "./icons/my.png",
+        "selectedIconPath": "./icons/wode.png"
+      }
+    ]
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json"

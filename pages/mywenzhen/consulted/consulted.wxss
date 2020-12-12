@@ -1,0 +1,143 @@
+.section {
+  width: 95%;
+  margin: 15rpx auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 32rpx;
+  padding: 15rpx 0;
+  border: 1rpx solid #ccc;
+}
+.section text {
+  padding-left: 30rpx;
+}
+.picker {
+  letter-spacing: 30rpx;
+  border: 1rpx solid silver;
+  padding-left: 30rpx;
+  margin: 0 15rpx;
+  display: flex;
+  align-items: center;
+}
+/* .picker .sanjiao {
+  width: 0;
+  height: 0;
+  border-left: 4rpx solid transparent;
+  border-right: 4rpx solid transparent;
+  border-top: 10rpx solid black;
+} */
+.wenzhen {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+.main {
+  width: 95%;
+  margin: auto;
+  height: 370rpx;
+  border: 1px solid #ccc;
+}
+.main .main_top {
+  height: 100rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1rpx solid #ccc;
+}
+.main .main_top .top_left {
+  padding-left: 30rpx;
+}
+.main .main_top .top_left .danhao {
+  font-size: 25rpx;
+}
+.main .main_top .top_left .shijian {
+  font-size: 22rpx;
+  margin-top: 10rpx;
+  color: darkgray;
+}
+.main .main_top .top_right {
+  color: red;
+  font-size: 28rpx;
+  padding-right: 30rpx;
+}
+.main_content {
+  margin-top: -10rpx;
+  font-size: 25rpx;
+  height: 200rpx;
+  border-bottom: 1rpx solid #ccc;
+}
+.main_content .neirong {
+  padding-left: 30rpx;
+  display: block;
+  padding-bottom: 10rpx;
+}
+.main_bottom {
+  position: relative;
+}
+.main_bottom .default {
+  position: absolute;
+  top: 15rpx;
+  right: 30rpx;
+  font-size: 20rpx;
+  width: 120rpx;
+  height: 50rpx;
+  background-color: indianred;
+  color: white;
+}
+
+/* 已完成 */
+.wancheng_main {
+  width: 95%;
+  margin: auto;
+  height: 340rpx;
+  border: 1px solid #ccc;
+}
+.wancheng_main .main_top {
+  height: 100rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1rpx solid #ccc;
+}
+.wancheng_main .main_top .top_left {
+  padding-left: 30rpx;
+}
+.wancheng_main .main_top .top_left .danhao {
+  font-size: 25rpx;
+}
+.wancheng_main .main_top .top_left .shijian {
+  font-size: 22rpx;
+  margin-top: 10rpx;
+  color: darkgray;
+}
+.wancheng_main .main_top .top_right {
+  color: red;
+  font-size: 28rpx;
+  padding-right: 30rpx;
+}
+.wancheng_main .main_content {
+  margin-top: -10rpx;
+  font-size: 25rpx;
+  height: 170rpx;
+  border-bottom: 1rpx solid #ccc;
+}
+.wancheng_main .main_content .neirong {
+  padding-left: 30rpx;
+  display: block;
+  padding-bottom: 10rpx;
+}
+.wancheng_main .main_bottom {
+  position: relative;
+  height: 150rpx;
+}
+.wancheng_main .main_bottom .default {
+  position: absolute;
+  top: 15rpx;
+  right: 30rpx;
+  font-size: 20rpx;
+  width: 140rpx;
+  height: 50rpx;
+  background-color: indianred;
+  color: white;
+}

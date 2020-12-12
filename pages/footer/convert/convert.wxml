@@ -1,0 +1,24 @@
+<!-- pages/convert/convert.wxml -->
+<!-- pages/collect/collect.wxml -->
+<page>
+    <view class="jilu">兑换记录</view>
+    <view class="convert-main">
+        <view class="main-top">
+            <form class="" report-submit="false" bindsubmit="" bindreset="">
+                <input class="inputs"  placeholder='请输入你的兑换码'  bindinput="getContentValue"> focus="true" size="mini"></input>
+                <button class="default">提交</button>
+            </form>
+        </view>
+        <view class="main-buttom">
+            <view class="duihuan">兑换须知：</view>
+            <view class="xuzhi">
+                <text class="dian"></text>
+                每个兑换码仅可使用一次
+            </view>
+            <view class="xuzhi">
+                <text class="dian"></text>
+                每个兑换码可领取一份套餐卡或优惠券
+            </view>
+        </view>
+    </view>
+</page>
